@@ -63,7 +63,4 @@ The system includes basic error handling for scenarios such as invalid student I
 ## Contribution
 Feel free to fork this repository, make improvements, and create pull requests. Contributions are welcome!
 
-## Contact
-For any inquiries or support, please contact [your email].
-
 Thank you for using the Student Record Management System!
